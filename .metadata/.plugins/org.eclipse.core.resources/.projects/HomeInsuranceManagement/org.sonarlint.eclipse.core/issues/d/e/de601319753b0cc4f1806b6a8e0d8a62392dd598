@@ -1,0 +1,11 @@
+
+g	java:S125"<This block of commented-out lines of code should be removed.(µ§½Hæ+RMAJORZ
+CODE_SMELL
+}
+java:S1128"LRemove this unused import 'org.springframework.context.event.EventListener'.(¦ñÛĞüÿÿÿÿHé+RMINORZ
+CODE_SMELL
+…
+java:S1128"YRemove this unused import 'org.springframework.boot.context.event.ApplicationReadyEvent'.(Ğ‰“Hë+RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢Ğ·ìıÿÿÿÿHí+RMINORZ
+CODE_SMELL

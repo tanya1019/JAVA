@@ -1,0 +1,10 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôÞŠîHà9RMINORZ
+CODE_SMELL
+h	java:S125ð"<This block of commented-out lines of code should be removed.(×¡áÍHÞ9RMAJORZ
+CODE_SMELL
+•
+java:S1845ý"fRename method "setContactNumber" to prevent any misunderstanding/clash with method "setContactNUmber".(®äÜºHá9RBLOCKERZ
+CODE_SMELL
+t	java:S107O"BConstructor has 10 parameters, which is greater than 7 authorized.(™º¡§8¹˜ô¨1H‘:RMAJORZ
+CODE_SMELL

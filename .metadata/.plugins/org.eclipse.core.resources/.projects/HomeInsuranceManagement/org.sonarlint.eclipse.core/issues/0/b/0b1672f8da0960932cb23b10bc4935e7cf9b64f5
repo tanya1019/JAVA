@@ -1,0 +1,10 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸçˆóHéwRMINORZ
+CODE_SMELL
+n	java:S125$"<This block of commented-out lines of code should be removed.(ÎÌ‹8éèÀÑ¨1HêwRMAJORZ
+CODE_SMELL
+‡
+java:S1128"TRemove this unused import 'com.insurance.homeInsurance.exception.CustomerException'.(²»ñø8ó×±‘©1HíwRMINORZ
+CODE_SMELL
+{	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºäØHïwRMINORZ
+CODE_SMELL

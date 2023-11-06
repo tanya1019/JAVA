@@ -1,0 +1,9 @@
+
+‚	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¦ùw8ª­ôÖ§1HÃwRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Ïõ™½8ª­ôÖ§1HÄwRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¸­·HÇwRMINORZ
+CODE_SMELL
+~
+java:S4684$"@Replace this persistent entity with a simple POJO or DTO object.(†ÙØøÿÿÿÿ8Ó²ð¨1HÈwRCRITICALZVULNERABILITY

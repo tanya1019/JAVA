@@ -1,0 +1,14 @@
+
+	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç·¬²ûÿÿÿÿH¹wRMINORZ
+CODE_SMELL
+‘
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒçŸüÿÿÿÿ8ä³­Ç²1H¼wRMINORZ
+CODE_SMELL
+	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç·¬²ûÿÿÿÿH¸wRMINORZ
+CODE_SMELL
+{	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼«âGH·wRMINORZ
+CODE_SMELL
+w
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÏÚó³ÿÿÿÿÿH¶wRCRITICALZVULNERABILITY
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¸­·HµwRMINORZ
+CODE_SMELL

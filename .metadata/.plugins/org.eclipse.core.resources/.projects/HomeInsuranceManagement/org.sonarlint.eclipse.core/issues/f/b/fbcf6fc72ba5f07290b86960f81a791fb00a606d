@@ -1,0 +1,16 @@
+
+È
+java:S1130F"Remove the declaration of thrown exception 'com.insurance.homeInsurance.exception.FeatureException', as it cannot be thrown from method's body.(ÇˆÁ¼ÿÿÿÿÿ8±’ğ §1H›3RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¸­·H”3RMINORZ
+CODE_SMELL
+~
+java:S4684F"@Replace this persistent entity with a simple POJO or DTO object.(ÇˆÁ¼ÿÿÿÿÿ8±’ğ §1H3RCRITICALZVULNERABILITY
+r
+java:S4684""@Replace this persistent entity with a simple POJO or DTO object.(òééÚHš3RCRITICALZVULNERABILITY
+ƒ
+java:S2737'"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™ûH•3RMINORZ
+CODE_SMELL
+Š
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(Óº€šüÿÿÿÿH˜3RMINORZ
+CODE_SMELL

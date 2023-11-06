@@ -1,0 +1,15 @@
+
+_
+java:S3655'":Call "customerOpt.isPresent()" before accessing the value.(”åÞþHÐwRMAJORZBUG
+r
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(Àþ„ùHÑwRCRITICALZVULNERABILITY
+w
+java:S4684$"@Replace this persistent entity with a simple POJO or DTO object.( ³ë¾ýÿÿÿÿHÒwRCRITICALZVULNERABILITY
+l	java:S1253"<This block of commented-out lines of code should be removed.(ûåÚ¹ùÿÿÿÿHÓwRMAJORZ
+CODE_SMELL
+ƒ
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.DeleteMapping'.(­ìÎªþÿÿÿÿHßwRMINORZ
+CODE_SMELL
+
+java:S1128"\Remove this unused import 'com.restful.datajpa.restful.datajpa.exception.CustomerException'.(úÚÐöøÿÿÿÿHáwRMINORZ
+CODE_SMELL

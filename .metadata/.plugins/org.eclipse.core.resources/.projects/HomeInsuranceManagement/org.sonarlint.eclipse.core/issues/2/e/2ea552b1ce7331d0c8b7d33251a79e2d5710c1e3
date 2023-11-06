@@ -1,0 +1,15 @@
+
+j
+java:S1128	"8Remove this unused import 'javax.persistence.OneToMany'.(«õù;8Õ¹ãÐ¨1Hæ[RMINORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Õ¹ãÐ¨1Hè[RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôÞŠîHê[RMINORZ
+CODE_SMELL
+m
+java:S1128":Remove this unused import 'javax.persistence.CascadeType'.( ì¤Ê8Õ¹ãÐ¨1Hë[RMINORZ
+CODE_SMELL
+€
+java:S1172"HRemove these unused method parameters "renewalDetails", "adminPolicies".(Îá•™üÿÿÿÿ8Õ¹ãÐ¨1Hí[RMAJORZ
+CODE_SMELL

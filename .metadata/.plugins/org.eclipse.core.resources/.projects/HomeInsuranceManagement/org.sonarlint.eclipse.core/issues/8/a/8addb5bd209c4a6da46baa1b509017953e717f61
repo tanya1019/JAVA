@@ -1,0 +1,33 @@
+
+’
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛéŞôûÿÿÿÿ8Îó¡‘©1H´@RMINORZ
+CODE_SMELL
+Œ
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨ŞŞ8Îó¡‘©1H¶@RMINORZ
+CODE_SMELL
+‘
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÂíûüÿÿÿÿ8Îó¡‘©1H¸@RMINORZ
+CODE_SMELL
+Œ
+java:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(“¦¯8Îó¡‘©1Hº@RMINORZ
+CODE_SMELL
+Œ
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(«’íš8Îó¡‘©1H¼@RMINORZ
+CODE_SMELL
+’
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯´‘ûÿÿÿÿ8Îó¡‘©1H¾@RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿şŒµHÀ@RMINORZ
+CODE_SMELL
+Œ
+java:S1128"YRemove this unused import 'org.springframework.web.bind.annotation.RestControllerAdvice'.(É•„8Îó¡‘©1HÁ@RMINORZ
+CODE_SMELL
+‘
+java:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(í³Òœúÿÿÿÿ8Îó¡‘©1HÃ@RMINORZ
+CODE_SMELL
+‘
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶‹¿·øÿÿÿÿ8Îó¡‘©1HÅ@RMINORZ
+CODE_SMELL
+Œ
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(’ÖØ•8Îó¡‘©1HÇ@RMINORZ
+CODE_SMELL

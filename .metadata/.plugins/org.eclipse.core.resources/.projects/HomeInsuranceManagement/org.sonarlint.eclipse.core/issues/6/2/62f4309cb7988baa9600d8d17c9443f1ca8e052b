@@ -1,0 +1,13 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôŞŠîHÓ3RMINORZ
+CODE_SMELL
+|	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÒİûHÔ3RMINORZ
+CODE_SMELL
+y	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕâöHÕ3RMINORZ
+CODE_SMELL
+€	java:S116"URename this field "payment_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ˆ’ÔHÖ3RMINORZ
+CODE_SMELL
+y	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÒİûH×3RMINORZ
+CODE_SMELL
+	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äª¶«üÿÿÿÿHØ3RMINORZ
+CODE_SMELL

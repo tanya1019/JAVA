@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:util="http://www.springframework.org/schema/util" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd"> <!-- bean definitions here -->
+
+	
+	<bean id = "emp1" class = "com.spring.demo.Employee">
+		<property name="id" value="1"/>
+		<property name="name" value="Bajaj"/>
+		<property name="salary" value="55000.0"/>	
+	</bean>
+	
+	<bean id = "emp2" class = "com.spring.demo.Employee">
+		<property name="id" value="2"/>
+		<property name="name" value="Siemens"/>
+		<property name="salary" value="45000.0"/>
+	</bean>
+
+	<util:list id = "emails" list-class= "java.util.LinkedList">
+		<value> tanya@gmail.com</value>
+		<value> akanksha@gmail.com</value>
+		<value> soniya@gmail.com</value>
+		<value> tanisha@gmail.com</value>
+	</util:list>
+	
+	<util:map id="emailsMap" map-class = "java.util.TreeMap">
+		<entry key = "tanya" value="tanya@gmail.com"/>
+		<entry key = "akanksha" value=" akanksha@gmail.com"/>
+		<entry key = "soniya" value=" soniya@gmail.com"/>
+		<entry key = "tanisha" value=" tanisha@gmail.com"/>
+	</util:map>
+	
+	<util:set id = "emailSet">
+		<value> tanya@gmail.com</value>
+		<value> akanksha@gmail.com</value>
+		<value> soniya@gmail.com</value>
+		<value> tanya@gmail.com</value>
+	</util:set>
+	
+	<bean id= "addressOne" class = "com.spring.demo.Address">
+		<property name="doornumber" value="20"/>
+		<property name="street" value="Pathare Vasti"/>
+		<property name="city" value="Pune"/>
+	</bean>
+	
+	<bean id = "emp3" class = "com.spring.demo.Employee">
+		<property name="id" value="3"/>
+		<property name="name" value="Varian"/>
+		<property name="salary" value="65000.0"/>
+		<property name="address" ref = "addressOne"/>
+	</bean>
+	
+	<bean id= "addressTwo" class = "com.spring.demo.Address">
+		<property name="doornumber" value="30"/>
+		<property name="street" value="Vasti"/>
+		<property name="city" value="Mumbai"/>
+	</bean>
+	
+	<bean id = "emp4" class = "com.spring.demo.Employee">
+		<constructor-arg name="id" value="4"/>
+		<constructor-arg name="name" value="Dwebbox"/>
+		<constructor-arg name="salary" value="75000.0"/>
+		<constructor-arg name="address" ref = "addressTwo"/>
+	</bean>
+	
+	
+	
+	<bean id= "adhaarOne" class = "com.spring.demo.Adhaar">
+		<property name="adhaarNumber" value="72032424"/>
+	</bean>
+	
+	<bean id= "addressThree" class = "com.spring.demo.Address">
+		<property name="doornumber" value="40"/>
+		<property name="street" value="Mundhwa Vasti"/>
+		<property name="city" value="Goa"/>
+	</bean>
+	
+	<bean id = "emp5" class = "com.spring.demo.Employee">
+		<property name="id" value="50"/>
+		<property name="name" value="Fint"/>
+		<property name="salary" value="99000.0"/>
+		<property name="address" ref = "addressThree"/>
+		<property name="adhaar" ref = "adhaarOne"/>
+	</bean>
+	
+	<bean id = "deptOne" class = "com.spring.demo.Department">
+		<property name="id" value="50"/>
+		<property name="deptName" value="Computer"/>
+		<property name="employee" ref = "emp5"/>
+		
+	</bean>
+	
+	
+	
+	
+</beans>

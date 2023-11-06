@@ -1,0 +1,17 @@
+
+ˆ	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êí¿ûÿÿÿÿ8èâ›ğ¨1Hµ9RMINORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™€Ø–HÉ9RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸçˆóH»9RMINORZ
+CODE_SMELL
+’
+java:S1488%"fImmediately return this expression instead of assigning it to the temporary variable "getAllPolicies".(íÄëµH¸9RMINORZ
+CODE_SMELL
+g	java:S125Z"<This block of commented-out lines of code should be removed.(ßŞ£¸H¼9RMAJORZ
+CODE_SMELL
+ˆ	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç°èñûÿÿÿÿ8èâ›ğ¨1H·9RMINORZ
+CODE_SMELL
+b
+java:S1135i"2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿH¶9RINFOZ
+CODE_SMELL

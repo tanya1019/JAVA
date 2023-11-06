@@ -1,0 +1,11 @@
+
+”
+java:S1488J"cImmediately return this expression instead of assigning it to the temporary variable "propsDetail".(›ÛõÂøÿÿÿÿHwRMINORZ
+CODE_SMELL
+	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÓâ’øÿÿÿÿHwRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸçˆóHŒwRMINORZ
+CODE_SMELL
+‡
+java:S1192"SDefine a constant instead of duplicating this literal "Customer not found" 4 times.(Àçœ¦ûÿÿÿÿH‘wRCRITICALZ
+CODE_SMELL

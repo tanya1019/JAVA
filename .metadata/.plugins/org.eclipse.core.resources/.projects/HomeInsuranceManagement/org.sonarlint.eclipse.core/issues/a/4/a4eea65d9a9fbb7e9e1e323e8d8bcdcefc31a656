@@ -1,0 +1,7 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôÞŠîH´=RMINORZ
+CODE_SMELL
+z	java:S107–"BConstructor has 10 parameters, which is greater than 7 authorized.(Ú–äŠüÿÿÿÿ8öÀå†¦1Hµ=RMAJORZ
+CODE_SMELL
+z	java:S107±"BConstructor has 11 parameters, which is greater than 7 authorized.(Ú–äŠüÿÿÿÿ8É“Çô¨1H¶=RMAJORZ
+CODE_SMELL

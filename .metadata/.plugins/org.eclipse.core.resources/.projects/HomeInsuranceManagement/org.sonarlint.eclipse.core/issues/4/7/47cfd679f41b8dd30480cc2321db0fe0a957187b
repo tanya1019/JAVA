@@ -1,0 +1,18 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôÞŠîHÁ7RMINORZ
+CODE_SMELL
+r	java:S107B"BConstructor has 11 parameters, which is greater than 7 authorized.(Á³ÊÌüÿÿÿÿHÄ7RMAJORZ
+CODE_SMELL
+n	java:S125*"<This block of commented-out lines of code should be removed.(Òç™Ñ8Òà—Í¨1HÅ7RMAJORZ
+CODE_SMELL
+m	java:S125#"<This block of commented-out lines of code should be removed.(à¨­a8ÂÆ¦™¨1HÈ7RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.time.temporal'.(¸Ò–—8Òà—Í¨1HÆ7RMINORZ
+CODE_SMELL
+r
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8ÂÆ¦™¨1HÂ7RMINORZ
+CODE_SMELL
+l
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ÂÆ¦™¨1H¿7RMINORZ
+CODE_SMELL

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:util="http://www.springframework.org/schema/util" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd"> <!-- bean definitions here -->
+        
+        
+     <bean id = "Car1" class = "com.spring.entity.Car">
+     		<property name="id" value="1"/>
+			<property name="make" value="BMW"/>
+			<property name="model" value="BMW-model1"/>
+			<property name="year" value="2001"/>	
+	</bean>
+	
+	<bean id = "Car2" class = "com.spring.entity.Car">
+     		<property name="id" value="2"/>
+			<property name="make" value="Mercedees"/>
+			<property name="model" value="Mercedees-model"/>
+			<property name="year" value="1991"/>	
+	</bean>
+        
+        
+ </beans>

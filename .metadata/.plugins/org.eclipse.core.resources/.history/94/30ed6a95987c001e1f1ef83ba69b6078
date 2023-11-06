@@ -1,0 +1,82 @@
+package com.cart.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.util.Collection;
+
+
+import com.cart.pojo.Product;
+import com.cart.utility.CartUtility;
+
+public class CartDaoDBImpl implements CartDao {
+
+	@Override
+	public Boolean addProductsToCart(Product newProduct) {
+		Connection connection = CartUtility.getConnectionToPostGres();
+		
+		try {
+			PreparedStatement preparedStatement = connection.prepareStatement("INSERT INTO cart VALUES(?,?,?,?)");
+			preparedStatement.setInt(1, newProduct.getId());
+			preparedStatement.setString(2, newProduct.getName());
+			preparedStatement.setDouble(3,newProduct.getPrice());
+			preparedStatement.setInt(4, newProduct.getQuantity());
+			Integer ResultCount = preparedStatement.executeUpdate();
+			
+			if(ResultCount>0) 
+				return true;
+			
+		}
+		catch() {
+			
+		}
+		return null;
+	}
+\
+	@Override
+	public String removeProductFromCart(Integer productId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer increaseProductQuantity(Integer productId, Integer quantity) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Integer updateProductQuantity(Integer productId, Integer quantity) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Collection<Product> getAllProducts() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Product getProductFromCartById(Integer productId) {
+		
+		Connection connection = CartUtility.getConnectionToPostGres();
+		Product product = null;
+		try {
+			PreparedStatement preparedStatement = connection.prepareStatement("SELECT * FROM cart WHERE id = ?");
+			preparedStatement.setInt(1, productId);
+			ResultSet result = preparedStatement.executeQuery();
+			
+			if(result.next()) {
+				return new Product(result.getInt(1), result.getString(2), result.getDouble(3), result.getInt(4));
+			}	
+		}
+		catch(SQLException e) {
+			System.out.println(e.getMessage());
+		}
+		
+		return null;
+	}
+
+}

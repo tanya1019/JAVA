@@ -1,0 +1,5 @@
+
+_
+java:S3655":Call "adminPolicy.isPresent()" before accessing the value.(µ‹äêHãxRMAJORZBUG
+Ö	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÁàÛHåxRMINORZ
+CODE_SMELL

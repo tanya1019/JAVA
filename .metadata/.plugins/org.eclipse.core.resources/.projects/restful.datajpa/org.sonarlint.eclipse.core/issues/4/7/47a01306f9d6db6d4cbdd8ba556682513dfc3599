@@ -1,0 +1,11 @@
+
+w
+java:S46843"@Replace this persistent entity with a simple POJO or DTO object.(Ï¨ÿıÿÿÿÿHÊwRCRITICALZVULNERABILITY
+w
+java:S4684$"@Replace this persistent entity with a simple POJO or DTO object.(Û½£ÅúÿÿÿÿHËwRCRITICALZVULNERABILITY
+Š
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(–è¹«üÿÿÿÿHÌwRMINORZ
+CODE_SMELL
+ƒ
+java:S2737)"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™ûHÎwRMINORZ
+CODE_SMELL

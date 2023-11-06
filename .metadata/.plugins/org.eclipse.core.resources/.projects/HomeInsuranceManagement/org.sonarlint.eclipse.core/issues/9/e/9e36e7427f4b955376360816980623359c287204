@@ -1,0 +1,15 @@
+
+p
+java:S1128"8Remove this unused import 'com.razorpay.RazorpayClient'.(šêÆüÿÿÿÿ8òóØğ§1Hğ@RMINORZ
+CODE_SMELL
+g
+java:S1128"/Remove this unused import 'com.razorpay.Order'.(œ šıÿÿÿÿ8òóØğ§1Hò@RMINORZ
+CODE_SMELL
+s
+java:S1128";Remove this unused import 'com.razorpay.RazorpayException'.(è›şÿÿÿÿ8òóØğ§1Hô@RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸçˆóHö@RMINORZ
+CODE_SMELL
+h
+java:S1128"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ8òóØğ§1H÷@RMINORZ
+CODE_SMELL

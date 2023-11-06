@@ -1,0 +1,19 @@
+
+U
+java:S1116"Remove this empty statement.(·¯Ğòûÿÿÿÿ8¤ûüô¨1HÕ@RMINORZ
+CODE_SMELL
+À
+java:S2681‘"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(²Ä‰™ûÿÿÿÿ8¤ûüô¨1H×@RMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸçˆóHØ@RMINORZ
+CODE_SMELL
+H
+java:S1116?"Remove this empty statement.(Í˜°éHÙ@RMINORZ
+CODE_SMELL
+i
+java:S1135["2Complete the task associated to this TODO comment.(àøö×ûÿÿÿÿ8¼çÕô¨1HÛ@RINFOZ
+CODE_SMELL
+Z
+java:S2175"(A "List<Claim>" cannot contain a "List".(·¯Ğòûÿÿÿÿ8¤ûüô¨1HÜ@RMAJORZBUG
+n	java:S125Z"<This block of commented-out lines of code should be removed.(œãşÅ8˜‰Øô¨1Hİ@RMAJORZ
+CODE_SMELL

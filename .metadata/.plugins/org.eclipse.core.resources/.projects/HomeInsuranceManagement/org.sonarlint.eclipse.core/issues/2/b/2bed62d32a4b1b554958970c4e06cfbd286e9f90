@@ -1,0 +1,16 @@
+
+ƒ
+java:S2737$"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™ûHòwRMINORZ
+CODE_SMELL
+ƒ
+java:S2737B"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™ûHówRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¸­·HôwRMINORZ
+CODE_SMELL
+w
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(§è²°úÿÿÿÿHõwRCRITICALZVULNERABILITY
+w
+java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(¹ç¼üÿÿÿÿHöwRCRITICALZVULNERABILITY
+ƒ
+java:S27375"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™ûH÷wRMINORZ
+CODE_SMELL

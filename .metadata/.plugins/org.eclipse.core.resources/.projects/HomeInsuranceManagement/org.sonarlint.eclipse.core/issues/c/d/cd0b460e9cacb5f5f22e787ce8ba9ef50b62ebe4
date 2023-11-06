@@ -1,0 +1,8 @@
+
+w
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ûž‹ËýÿÿÿÿHøwRCRITICALZVULNERABILITY
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¸­·HùwRMINORZ
+CODE_SMELL
+‘
+java:S1488 "`Immediately return this expression instead of assigning it to the temporary variable "adminGet".(í©ªüùÿÿÿÿHúwRMINORZ
+CODE_SMELL

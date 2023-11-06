@@ -1,0 +1,20 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¸­·HxRMINORZ
+CODE_SMELL
+ƒ
+java:S2737%"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™ûH‚xRMINORZ
+CODE_SMELL
+q
+java:S4684!"@Replace this persistent entity with a simple POJO or DTO object.(°HƒxRCRITICALZVULNERABILITY
+	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§…ôàıÿÿÿÿH„xRMINORZ
+CODE_SMELL
+z
+java:S1128"GRemove this unused import 'com.insurance.homeInsurance.entity.Feature'.(¹åñ¬8ÿ€Ÿó¨1H…xRMINORZ
+CODE_SMELL
+	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§…ôàıÿÿÿÿH‡xRMINORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'com.insurance.homeInsurance.exception.FeatureException'.(×ÏÊÿÿÿÿÿ8ÿ€Ÿó¨1HˆxRMINORZ
+CODE_SMELL
+	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§…ôàıÿÿÿÿHŠxRMINORZ
+CODE_SMELL

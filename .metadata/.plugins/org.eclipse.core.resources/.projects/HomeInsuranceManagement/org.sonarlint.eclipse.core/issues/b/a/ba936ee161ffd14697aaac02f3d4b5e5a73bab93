@@ -1,0 +1,8 @@
+
+w
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(èáòÉûÿÿÿÿH-RCRITICALZVULNERABILITY
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¸­·H‘-RMINORZ
+CODE_SMELL
+‚
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8 –Ôğ§1H×-RMINORZ
+CODE_SMELL

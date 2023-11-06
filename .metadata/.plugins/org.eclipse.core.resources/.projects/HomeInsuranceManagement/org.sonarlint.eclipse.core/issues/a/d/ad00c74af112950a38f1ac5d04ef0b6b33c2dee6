@@ -1,0 +1,24 @@
+
+P
+java:S5786."Remove this 'public' modifier.(û¯°â8•ìÁ×¦1H€>RINFOZ
+CODE_SMELL
+P
+java:S5786&"Remove this 'public' modifier.(ïÏÑ»8•ìÁ×¦1Hö=RINFOZ
+CODE_SMELL
+s
+java:S5845"?Change the assertion arguments to not compare dissimilar types.(‘ã†üÿÿÿÿ8•ìÁ×¦1Hú=RCRITICALZBUG
+U
+java:S5786!"Remove this 'public' modifier.(ðìÔºüÿÿÿÿ8•ìÁ×¦1Hô=RINFOZ
+CODE_SMELL
+U
+java:S5786"Remove this 'public' modifier.(¬¯€Ñûÿÿÿÿ8•ìÁ×¦1Hü=RINFOZ
+CODE_SMELL
+N
+java:S5786"Remove this 'public' modifier.(ü¯õ°úÿÿÿÿHþ=RINFOZ
+CODE_SMELL
+H
+java:S5785)"Use assertNull instead.(˜¼ÜáüÿÿÿÿHø=RMAJORZ
+CODE_SMELL
+b
+java:S2699."-Add at least one assertion to this test case.(û¯°â8•ìÁ×¦1H‚>RBLOCKERZ
+CODE_SMELL

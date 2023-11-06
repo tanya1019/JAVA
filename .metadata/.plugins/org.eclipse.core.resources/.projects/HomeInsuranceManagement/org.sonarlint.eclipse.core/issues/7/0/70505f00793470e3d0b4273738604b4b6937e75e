@@ -1,0 +1,11 @@
+
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8È§Øğ§1HË.RMAJORZ
+CODE_SMELL
+¡
+java:S1488#"iImmediately return this expression instead of assigning it to the temporary variable "transactionDetail".(´«¨²úÿÿÿÿ8À¥Îñ§1HÌ.RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸçˆóHÏ.RMINORZ
+CODE_SMELL
+¢
+java:S14889"jImmediately return this expression instead of assigning it to the temporary variable "transactionDetails".(Æİ±¥úÿÿÿÿ8‘³ñ§1HĞ.RMINORZ
+CODE_SMELL

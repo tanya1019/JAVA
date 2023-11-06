@@ -1,0 +1,11 @@
+
+Œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„¸­·8Ÿ©¥ú¤1HıwRMINORZ
+CODE_SMELL
+ƒ
+java:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™ûHşwRMINORZ
+CODE_SMELL
+ƒ
+java:S2737)"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™ûHÿwRMINORZ
+CODE_SMELL
+r
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(±ŒÉ»H€xRCRITICALZVULNERABILITY
